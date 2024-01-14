@@ -1,0 +1,2 @@
+# @title Unzip tệp test
+!unzip '/content/drive/MyDrive/public_test.zip'
