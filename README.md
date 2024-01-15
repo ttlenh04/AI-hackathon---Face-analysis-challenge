@@ -24,8 +24,9 @@ Trên Google Drive của bạn, tạo một thư mục chứa tất cả dữ li
 
 **Bước 3: Thực hiện huấn luyện trên Google Colab**
 
-# Giải nén thư mục ảnh dùng để test
-!unzip '/content/drive/MyDrive/public_test.zip'
+Các đoạn code thực hiện trên Google Colab đã được gửi lên ở định đạn ipynb. Vui lòng truy cập đúng đường yếu tố cần dự đoán và thực hiện
+(Lưu ý trong quá trình chạy cần đặt thời gian chạy là GPU)
+
 
 
 
