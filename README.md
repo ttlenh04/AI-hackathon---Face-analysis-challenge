@@ -22,4 +22,10 @@ Trên Google Drive của bạn, tạo một thư mục chứa tất cả dữ li
 
 ![image](https://github.com/ttlenh04/AI-hackathon---Face-analysis-challenge/assets/156582899/dd4cbb29-9bd0-441a-b262-57170747ca31)
 
+**Bước 3: Thực hiện huấn luyện trên Google Colab**
+
+# Giải nén thư mục ảnh dùng để test
+!unzip '/content/drive/MyDrive/public_test.zip'
+
+
 
