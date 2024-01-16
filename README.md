@@ -4,13 +4,13 @@ Dự án của chúng tôi nhằm giải quyết bài toán nhận diện tất 
 
 
 **Bước 1: Tải các bộ dữ liệu cần thiết** :
- Bộ dữ liệu của bài toán phân tích các yếu tố trên khuân mặt gồm tất cả 6 yếu tố. Bộ dữ liệu của bài toán được lưu trữ trên nền tảng Roboflow. Roboflow là một nền tảng học máy và thị giác máy tính được thiết kế để hỗ trợ quá trình xử lý ảnh và triển khai mô hình học máy trên ứng dụng thực tế.
+ Bộ dữ liệu của bài toán phân tích các yếu tố trên khuôn mặt gồm tất cả 6 yếu tố. Bộ dữ liệu của bài toán được lưu trữ trên nền tảng Roboflow. Roboflow là một nền tảng học máy và thị giác máy tính được thiết kế để hỗ trợ quá trình xử lý ảnh và triển khai mô hình học máy trên ứng dụng thực tế.
  Để tải bộ dữ liệu tương ứng với folder drive dưới đây : 
  https://drive.google.com/drive/folders/1haOG5tZlhI4f9pkHFsjB4EeOJGVtJ0Ei?usp=sharing
 
 
  Thông tin về tập data : 
- + Gồm hình ảnh từ tập của btc và ảnh tăng cường dựa trên tập gốc của btc
+ + Gồm hình ảnh từ tập của btc và ảnh tăng cường dựa trên tập gốc của BTC
  + Định dạng annotations của tập data là định dạng COCO
 
 **Bước 2: Chuẩn bị Dữ Liệu trên Google Drive**
